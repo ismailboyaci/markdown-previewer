@@ -1,0 +1,57 @@
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #293462 !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.navbar{
+  background-color: #1CD6CE;
+}
+.markDownLink{
+  color: #293462;
+  text-decoration: none;
+}
+.markDownLink:hover{
+  color: #D61C4E;
+}
+.markDownLink p{
+  font-size: 32px;
+  font-weight: 600;
+  font-family:monospace;
+  margin: 0 10px;
+}
+.iconGL{
+  font-size: 32px;
+  margin-left:20px;
+}
+.text-panel-left,
+.text-panel-right {
+  width: 75%;
+  height: 90%;
+  padding: 10px;
+  background-color: #FEDB39 ;
+  box-shadow: 10px 10px #1CD6CE;
+}
+.buttonDiv{
+  justify-content: end;
+  margin-top: 20px !important;
+}
+.buttonStyle{
+  background-color: #FEDB39 !important;
+  width: fit-content !important;
+  font-size: 32px !important;
+  font-weight: 700 !important;
+  border-radius: 50% !important;
+}
+
